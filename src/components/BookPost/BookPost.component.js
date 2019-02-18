@@ -9,6 +9,13 @@ class BookPost extends Component {
         rating: this.props.book.rating,
       }
 
+      onLikeClick=() => {
+        this.setState({
+          liked: !this.state.liked,
+        });
+        this.props.onHeartClick();
+      }
+
       render() {
       // console.log('-----',this.props.product);
         // const product = this.props.blog;
