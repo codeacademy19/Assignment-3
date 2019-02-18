@@ -1,0 +1,22 @@
+
+.reaction{
+    display:flex;
+    background: orange;
+    padding:0px;
+    max-width: 350px;
+    justify-content: space-between;
+}
+.rating{
+    font-size: 1.5rem;
+    margin-top: 0;
+    vertical-align: 18px;
+    margin-top: 11px;
+    padding-left: 2%
+}
+
+.heart{
+    
+    width:30px;
+    height:30px;
+    margin:10px
+}

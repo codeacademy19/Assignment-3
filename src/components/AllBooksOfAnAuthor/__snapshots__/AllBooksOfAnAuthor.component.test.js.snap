@@ -1,0 +1,165 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AllBooksOfAnAuthor should render without crashing 1`] = `
+<fieldset
+  className="allBooksOfAnAuthor"
+>
+  <legend
+    className="authorName"
+  >
+    J.K.ROWLING
+  </legend>
+  <div
+    className="allBooksMain"
+  >
+    <div
+      className="BookPost"
+    >
+      <div
+        className="main"
+      >
+        <div
+          className="backgroundImage"
+          style={
+            Object {
+              "backgroundImage": "url(\\"./Images/cover_image.jpeg\\")",
+            }
+          }
+        />
+        <div
+          className="title"
+        >
+          <span>
+            HARRY POTTER AND THE SORCERERS STONE (HARRY POTTER, #1)
+          </span>
+        </div>
+      </div>
+      <div
+        className="reaction"
+      >
+        <span
+          className="rating"
+        >
+          4.5
+        </span>
+        <img
+          alt="heart"
+          className="heart"
+          src="./Icons/heart-black.svg"
+        />
+      </div>
+    </div>
+    <div
+      className="BookPost"
+    >
+      <div
+        className="main"
+      >
+        <div
+          className="backgroundImage"
+          style={
+            Object {
+              "backgroundImage": "url(\\"./Images/cover_image.jpeg\\")",
+            }
+          }
+        />
+        <div
+          className="title"
+        >
+          <span>
+            HARRY POTTER AND THE SORCERERS STONE (HARRY POTTER, #1)
+          </span>
+        </div>
+      </div>
+      <div
+        className="reaction"
+      >
+        <span
+          className="rating"
+        >
+          4.5
+        </span>
+        <img
+          alt="heart"
+          className="heart"
+          src="./Icons/heart-black.svg"
+        />
+      </div>
+    </div>
+    <div
+      className="BookPost"
+    >
+      <div
+        className="main"
+      >
+        <div
+          className="backgroundImage"
+          style={
+            Object {
+              "backgroundImage": "url(\\"./Images/cover_image.jpeg\\")",
+            }
+          }
+        />
+        <div
+          className="title"
+        >
+          <span>
+            HARRY POTTER AND THE SORCERERS STONE (HARRY POTTER, #1)
+          </span>
+        </div>
+      </div>
+      <div
+        className="reaction"
+      >
+        <span
+          className="rating"
+        >
+          4.5
+        </span>
+        <img
+          alt="heart"
+          className="heart"
+          src="./Icons/heart-black.svg"
+        />
+      </div>
+    </div>
+    <div
+      className="BookPost"
+    >
+      <div
+        className="main"
+      >
+        <div
+          className="backgroundImage"
+          style={
+            Object {
+              "backgroundImage": "url(\\"./Images/cover_image.jpeg\\")",
+            }
+          }
+        />
+        <div
+          className="title"
+        >
+          <span>
+            HARRY POTTER AND THE SORCERERS STONE (HARRY POTTER, #1)
+          </span>
+        </div>
+      </div>
+      <div
+        className="reaction"
+      >
+        <span
+          className="rating"
+        >
+          4.5
+        </span>
+        <img
+          alt="heart"
+          className="heart"
+          src="./Icons/heart-black.svg"
+        />
+      </div>
+    </div>
+  </div>
+</fieldset>
+`;

@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header should render header 1`] = `
+<header>
+  <div
+    className="hr1"
+  >
+    <hr />
+  </div>
+  <div
+    className="headerSpan"
+  >
+    <div
+      className="BS"
+    >
+      BS
+    </div>
+    <div
+      className="description"
+    >
+      The Book Shelf
+    </div>
+  </div>
+  <div
+    className="hr2"
+  >
+    <hr />
+  </div>
+</header>
+`;

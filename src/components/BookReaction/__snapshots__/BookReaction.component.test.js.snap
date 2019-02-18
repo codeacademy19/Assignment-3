@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AllBooksOfAnAuthor should render without crashing 1`] = `
+<div
+  className="reaction"
+>
+  <span
+    className="rating"
+  />
+  <img
+    alt="heart"
+    className="heart"
+    src="./Icons/heart-black.svg"
+  />
+</div>
+`;
