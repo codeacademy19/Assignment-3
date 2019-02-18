@@ -3,4 +3,10 @@
     flex-direction: column;
     margin-top: 20px;
     margin:5%;
+    background:orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.BookPost:nth-child(even) {
+    background:white;
+    color:orange;
 }

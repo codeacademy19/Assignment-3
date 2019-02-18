@@ -6,7 +6,7 @@ class BookContent extends Component {
     const book = this.props.book;
 
     return (
-      <div className="main">
+      <div className="mainContent">
         <div className="backgroundImage" style={{ backgroundImage: 'url("./Images/cover_image.jpeg")' }} />
 
         <div className="title">

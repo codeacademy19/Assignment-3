@@ -16,7 +16,7 @@ exports[`AllBooksOfAnAuthor should render without crashing 1`] = `
       className="BookPost"
     >
       <div
-        className="main"
+        className="mainContent"
       >
         <div
           className="backgroundImage"
@@ -53,7 +53,7 @@ exports[`AllBooksOfAnAuthor should render without crashing 1`] = `
       className="BookPost"
     >
       <div
-        className="main"
+        className="mainContent"
       >
         <div
           className="backgroundImage"
@@ -90,7 +90,7 @@ exports[`AllBooksOfAnAuthor should render without crashing 1`] = `
       className="BookPost"
     >
       <div
-        className="main"
+        className="mainContent"
       >
         <div
           className="backgroundImage"
@@ -127,7 +127,7 @@ exports[`AllBooksOfAnAuthor should render without crashing 1`] = `
       className="BookPost"
     >
       <div
-        className="main"
+        className="mainContent"
       >
         <div
           className="backgroundImage"

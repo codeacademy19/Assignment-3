@@ -2,7 +2,7 @@
 
 exports[`AllBooksOfAnAuthor should render without crashing 1`] = `
 <div
-  className="main"
+  className="mainContent"
 >
   <div
     className="backgroundImage"

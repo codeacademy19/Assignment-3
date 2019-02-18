@@ -1,7 +1,6 @@
 
 .reaction{
     display:flex;
-    background: orange;
     padding:0px;
     max-width: 350px;
     justify-content: space-between;
